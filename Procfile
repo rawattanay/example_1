@@ -1,1 +1,1 @@
-web:java -jar C:\Users\dell\Desktop\jar\webapp-runner-9.0.11.0.jar webrock\ttt.war
+web: java $JAVA_OPTS -cp jar/webapp-runner-9.0.11.0.jar ttt.war
