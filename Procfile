@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar jar/webapp-runner-9.0.11.0.jar webrock/index.jsp
+web: java $JAVA_OPTS -jar jar/webapp-runner-9.0.11.0.jar webrock/ttt.war
